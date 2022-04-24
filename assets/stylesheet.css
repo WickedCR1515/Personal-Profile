@@ -1,0 +1,46 @@
+.container{
+    width:85%;
+    background: #57cc99;
+    margin:0 auto;
+    border-radius: 2%; 
+    font-family: monospace;
+}
+.topbar{
+    background: #1ca2a7;
+    font-family: monospace;
+    font-size: 18px;
+    font-weight: 900;
+    
+}
+/* Image */
+.topbar table tr td img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+.topbar table tr td{
+    font-size: 25px;
+}
+.topbar p{
+    color: rgba(48, 48, 48, 0.753);
+}
+.socials tr td{
+    color:rgb(37, 36, 36) ;
+    
+
+} 
+.socials{
+    background:#57cc99;
+    border-radius: 2%;
+}
+/* Header settings */
+h3{
+    font-size: 24px;
+}
+h3 :hover{
+    text-decoration: line-through;
+    transition: ease-in-out .3ms;
+}
+p{
+    font-size: 18px;
+}
